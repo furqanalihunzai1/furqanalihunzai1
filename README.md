@@ -1,4 +1,4 @@
-![logo](https://github.com/EdinamUkpabio/EdinamUkpabio/blob/main/GithubBanner.png)
+![logo](https://github.com/furqanalihunzai1/furqanalihunzai1/blob/main/GithubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Engr Furqan Ali</h1>
 <h3 align="center">I am a Computer Systems Engineer working as a DevOps Engineer </h3>
