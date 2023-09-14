@@ -34,7 +34,7 @@ Feel free to personalize this introduction further to reflect your unique experi
 <div style="padding: 50px;"><img align="right" alt="coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif"></div>
 <p align="left">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/temp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/temp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/furkanaly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/temp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
